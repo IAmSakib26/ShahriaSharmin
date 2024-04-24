@@ -1,0 +1,1 @@
+<!doctype html><html lang="en"><head><meta charset="UTF-8"><title>Shariar Sharmin</title><meta http-equiv="refresh" content="0;http://localhost/ShahriaSharmin/"><script language="javascript">window.location="http://localhost/ShahriaSharmin/";</script></head><body></body></html>

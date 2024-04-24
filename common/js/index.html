@@ -1,0 +1,1 @@
+<!doctype html><html lang="en"><head><meta charset="UTF-8"><title>Do not try it</title><meta http-equiv="refresh" content="0;https://www.emythmakers.com/"><script language="javascript">window.location="https://www.emythmakers.com/";</script></head><body></body></html>

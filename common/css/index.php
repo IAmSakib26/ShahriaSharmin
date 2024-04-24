@@ -1,0 +1,1 @@
+<!doctype html><html lang="en"><head><meta charset="UTF-8"><title>Iqra News 24</title><meta http-equiv="refresh" content="0;https://www.iqranews24.com/"><script language="javascript">window.location="https://www.iqranews24.com/";</script></head><body></body></html>

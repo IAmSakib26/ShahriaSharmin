@@ -1,0 +1,23 @@
+/**
+ * @license Copyright (c) 2003-2018, CKSource - Frederico Knabben. All rights reserved.
+ * For licensing, see https://ckeditor.com/legal/ckeditor-oss-license
+ */
+
+
+CKEDITOR.editorConfig = function(config) {
+// ...
+   // config.filebrowserBrowseUrl = 'https://www.daily-bangladesh.com/Adp76Nel/CoNtr88ols/imgUpload.php';
+   // config.filebrowserImageBrowseUrl = 'https://www.daily-bangladesh.com/Adp76Nel/CoNtr88ols/common/kcfinder/browse.php?opener=ckeditor&type=images';
+   // config.filebrowserFlashBrowseUrl = 'https://www.daily-bangladesh.com/Adp76Nel/CoNtr88ols/common/kcfinder/browse.php?opener=ckeditor&type=flash';
+   config.filebrowserUploadUrl = 'https://www.daily-bangladesh.com/Adp76Nel/CoNtr88ols/imgUpload.php?CKEditorFuncNum=0';
+   config.height= 3000;
+   // config.filebrowserImageUploadUrl = 'https://www.daily-bangladesh.com/Adp76Nel/CoNtr88ols/common/kcfinder/upload.php?opener=ckeditor&type=images';
+   // config.filebrowserFlashUploadUrl = 'https://www.daily-bangladesh.com/Adp76Nel/CoNtr88ols/common/kcfinder/upload.php?opener=ckeditor&type=flash';
+   // config.extraPlugins = 'oembed,widget';
+   // config.oembed_maxWidth = '560';
+	// config.oembed_maxHeight = '315';
+	// config.oembed_WrapperClass = 'embededContent';
+	// toolbar :[ ... ['oembed']...]
+
+// ...
+};
